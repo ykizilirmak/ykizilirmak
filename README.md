@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Yusuf KIZILIRMAK. Nice to meet you 👋
+
 
 <!--
 **ykizilirmak/ykizilirmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
