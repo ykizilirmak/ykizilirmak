@@ -25,12 +25,7 @@ I'm a Software Developer
 -🔭 I’m currently working on BackEnd.<br/>
 -🌱 I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
--📫 How to reach me:<a href="https://www.linkedin.com/in/yusuf-k-3a5112164/"><img src="https://img.shields.io/badge/-YusufKizilirmak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
 
-[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/yusuf-k-3a5112164/" align="left" alt="yusuf kızılırmak| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
- <br />
-<img align="left" alt="zeynepcelikk456@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> zeynepcelikk456@gmail.com <br />
 
 <br /><h2 align="left">
  🛠 Languages and Tools
@@ -50,12 +45,12 @@ I'm a Software Developer
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+###<br> ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/bufgix">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bufgix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bufgix&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ykizilirmak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ykizilirmak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ykizilirmak&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
