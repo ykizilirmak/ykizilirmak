@@ -1,4 +1,4 @@
-                                          ### Hi there, I'm Yusuf KIZILIRMAK. Nice to meet you 👋
+<h3 align="center">Hi there, I'm Yusuf KIZILIRMAK. Nice to meet you 👋</h3>
 
 
 <!--
