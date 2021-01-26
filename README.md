@@ -25,9 +25,10 @@ I'm a Software Developer
 -🔭 I’m currently working on BackEnd.<br/>
 -🌱 I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
--📫 How to reach me: <a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
+-📫 How to reach me:<a href="https://www.linkedin.com/in/yusuf-k-3a5112164/"><img src="https://img.shields.io/badge/-YusufKizilirmak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/</> <br />
 
-[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/zeynep-%C3%A7elik/" align="left" alt="zeynep-çelik| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
+[<img align="left" alt="zeynep-çelik| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<a href="https://www.linkedin.com/in/yusuf-k-3a5112164/" align="left" alt="yusuf kızılırmak| LinkedIn" width="22px">linkedin.com/in/zeynep-çelik/<a/><br />
  <br />
 <img align="left" alt="zeynepcelikk456@gmail.com" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/> zeynepcelikk456@gmail.com <br />
 
@@ -76,7 +77,7 @@ I'm a Software Developer
 <p align="center">
 <a href="https://www.bufgix.now.sh"><img src="https://img.shields.io/badge/-bufgix.now.sh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://twitter.com/bufgix_"><img src="https://img.shields.io/badge/-bufgix_-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/omer-faruk-bufgix/"><img src="https://img.shields.io/badge/-Ömer%20Faruk%20Oruc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yusuf-k-3a5112164/"><img src="https://img.shields.io/badge/-YusufKizilirmak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ooruc471@yandex.com"><img src="https://img.shields.io/badge/-ooruc471@yandex.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bufgix"><img src="https://img.shields.io/badge/-@bufgix-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/bufgix"><img src="https://img.shields.io/badge/-@bufgix-151515?style=flat&logo=CodeSandBox&logoColor=white"/></a>
