@@ -44,7 +44,7 @@ I'm a Software Developer
 
 
 
-<div align="center">
+<h2 align="left">
  
 
  ⚙️ &nbsp;GitHub Analytics
