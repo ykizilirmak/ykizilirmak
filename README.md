@@ -44,10 +44,7 @@ I'm a Software Developer
 
 
 
-<h2 align="left">
- 
-
- ⚙️ &nbsp;GitHub Analytics
+<h2 align="left"> ⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/ykizilirmak">
@@ -55,7 +52,7 @@ I'm a Software Developer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ykizilirmak&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</div>
+
 
 ### 🔖 &nbsp;My Last Raindrops
 - [Making a resizable div in JS is not easy as you think | by Nguyễn Việt Hưng | The happy lone guy | Medium](https://medium.com/the-z/making-a-resizable-div-in-js-is-not-easy-as-you-think-bda19a1bc53d)
