@@ -43,7 +43,7 @@ I'm a Software Developer
 
 
 
-<br/><h2 align="left"> ⚙️ &nbsp;GitHub Analytics</h2>
+<br/><br/><br/><h2 align="left"> ⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/ykizilirmak">
