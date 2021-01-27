@@ -1,4 +1,8 @@
-<h3 align="center">Hi there, I'm Yusuf KIZILIRMAK. Nice to meet you 👋</h3>
+<h3 align="center">Hi there, I'm Yusuf KIZILIRMAK. Nice to meet you 👋</h3> 
+
+ <p align="right">
+ ![](https://visitor-badge.laobi.icu/badge?page_id=ykizilirmak.ykizilirmak)
+ </p>
 
 
 <!--
