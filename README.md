@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="left">
 I'm a Software Developer
 </h2>
-
+ 
 -🔭 I’m currently working on BackEnd.<br/>
 -🌱 I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
@@ -62,6 +62,7 @@ I'm a Software Developer
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?ykizilirmak=ykizilirmak)
 <a href="https://www.linkedin.com/in/yusuf-k-3a5112164/"><img src="https://img.shields.io/badge/-YusufKizilirmak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ykizilirmak93@gmail.com"><img src="https://img.shields.io/badge/-ykizilirmak93@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
