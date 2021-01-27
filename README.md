@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h2 align="left">
 I'm a Software Developer
 </h2>
+![](https://visitor-badge.laobi.icu/badge?page_id=ykizilirmak.ykizilirmak)
 -🔭 I’m currently working on BackEnd.<br/>
 -🌱 I’m currently learning more about .NetCore.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
