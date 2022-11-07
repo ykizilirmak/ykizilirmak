@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 I'm a Software Developer
 </h2>
  
--🔭 I’m currently working on BackEnd.<br/>
--🌱 I’m currently learning more about .NetCore.<br/>
+-🔭 I’m currently working on Salesforce Platform.<br/>
+-🌱 I’m currently learning more about Apex.<br/>
 -🤔 I’m looking for help with .NetCore.<br/>
 
 
