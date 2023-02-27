@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a Software Developer
 </h2>
  
--🔭 I’m currently working on Salesforce Apex,LWC,Visualforce,Aura.<br/>br/>
+-🔭 I’m currently working on Salesforce Apex,LWC,Visualforce,Aura.<br/><br/>
 -🌱 I’m currently learning more about Experience Cloud.<br/>
 
 
