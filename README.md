@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 I'm a Software Developer
 </h2>
  
--🔭 I’m currently working on Salesforce Platform.<br/>
--🌱 I’m currently learning more about Apex.<br/>
--🤔 I’m looking for help with .NetCore.<br/>
+-🔭 I’m currently working on Salesforce Apex,LWC,Visualforce,Aura.<br/>
+-🌱 I’m currently learning more about Experience Cloud.<br/>
+
 
 
 <br /><h2 align="left">
